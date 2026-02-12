@@ -1,3 +1,5 @@
+//Quick sort implementation in Java
+
 public class QuickSort {
     
     public static void quickSort(int[] arr) {
